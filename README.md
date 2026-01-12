@@ -1,5 +1,5 @@
 # Die With Zero Calculator
-[![DOI](https://zenodo.org/badge/1132742997.svg)](https://doi.org/10.5281/zenodo.18221543)
+[![DOI](https://zenodo.org/badge/1132742997.svg?v=1)](https://doi.org/10.5281/zenodo.18221543)
 
 A web-based calculator inspired by *Die With Zero* (Bill Perkins),
 designed to help users estimate the **required assets at retirement** in order to reach zero assets at a chosen end-of-life age.
